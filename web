@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Servidor WEB</title>
+</head>
+<body>
+
+<h1 align="center">Sistema Distribuido sobre una Farmacia<h1>
+
+<h3 align="center" >
+En nuestro diagrama de sistemas distribuidos hemos elegido el tema de f></h3>
+
+<h2 align="center">Estructura del diagrama</h2>
+<p>
+    El diagrama consto de 3 sucursales las cuales cada una esta unida c>    Tratamos todos los puntos que se estuvieron viendo en la unidad 1 c>    que eran los puntos de servicio DNS, DHCP y web.
+</p>
+
+</body>
+</html>
